@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d7c84f50-fd88-42c1-88e0-2c862eb16ea0" name="firstsnow-project">
+        <fileTransfer accessType="SFTP" host="223.130.146.101" port="20022" sshConfigId="c1d42b45-c8f9-418b-903a-6725d1a19113" sshConfig="root@223.130.146.101:20022 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

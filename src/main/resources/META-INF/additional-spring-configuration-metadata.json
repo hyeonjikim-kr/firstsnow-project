@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "mqtt.username",
+      "type": "java.lang.String",
+      "description": "Description for mqtt.username."
+  }
+] }
